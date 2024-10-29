@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Carlos Bravo
+## Hi, my name is Carlos Bravo 👋
 - 🎓 I am currently studying a Dual Bachelor's degree in Computer Science and Engineering, and Business Administration, at Universidad Carlos III de Madrid
 - 🌱 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business.
-- 🚀 I am passionate about combining programming with business strategy and innovation.
+- 💻 I am passionate about combining programming with business strategy and innovation.
 
 <!--
 ## 💻 Languages I Use
@@ -13,10 +13,16 @@
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 -->
+## Skills 🚀
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,html,css,js,mysql,git,github,vscode,linux&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBravoGarran&hide_progress=true)
 
+## Stats 📊
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBravoGarran&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="Ragarr" />
+</p>
 
+<hr>
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/carlos-bravo-garr%C3%A1n-63235a328/)
