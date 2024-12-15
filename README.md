@@ -1,8 +1,7 @@
 ## Hi, my name is Carlos Bravo 👋
 - 🎓 I am currently studying a Dual Bachelor's degree in Computer Science and Engineering, and Business Administration, at Universidad Carlos III de Madrid
 - 🌱 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business.
-- 💻 I am passionate about combining programming with business strategy and innovation.
-
+- 💻 I am passionate about combining programming with business strategy and innovation to address real-world challenges. My primary interests include Artificial Intelligence, Cybersecurity, Data Analytics, and Software Development, among other areas.
 <!--
 ## 💻 Languages I Use
 
