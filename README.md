@@ -24,5 +24,5 @@
 <hr>
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/carlos-bravo-garr%C3%A1n-63235a328/)
+- [LinkedIn](https://www.linkedin.com/in/carlosbravogarr%C3%A1n/)
 - [Email](carlosbravogarran@gmail.com)
