@@ -14,7 +14,7 @@
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 -->
 ## Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,html,css,js,mysql,git,github,vscode,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,github,vscode,linux&perline=5)](https://skillicons.dev)
 
 
 ## Stats 📊
