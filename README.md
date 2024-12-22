@@ -13,16 +13,23 @@
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 -->
 ## Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,github,vscode,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,vim,vscode,linux&perline=5)]
 
 
 ## Stats 📊
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBravoGarran&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="Ragarr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBravoGarran&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="CarlosBravoGarrán" />
 </p>
 
 <hr>
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/carlosbravogarr%C3%A1n/)
-- [Email](mailto:carlosbravogarran@gmail.com)
+
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/carlosbravogarr%C3%A1n/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn">
+  </a>
+  <a href="mailto:carlosbravogarran@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" alt="Email">
+  </a>
+</div>
