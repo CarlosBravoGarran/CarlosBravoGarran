@@ -25,7 +25,6 @@
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosBravoGarran&theme=cobalt"
 </p>
----
 
 ## 📫 How to reach me
 
