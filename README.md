@@ -17,11 +17,14 @@
 
 
 ## Stats 📊
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBravoGarran&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="CarlosBravoGarrán" />
-</p>
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosBravoGarran&theme=cobalt)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=cobalt)
 
-<hr>
+
+## Summary 💻
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosBravoGarran&theme=cobalt)
+
+---
 
 ## 📫 How to reach me
 
@@ -33,3 +36,10 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" alt="Email">
   </a>
 </div>
+
+
+
+## 🎵 Ahora escuchando
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/bravocarlos03)
+
+
