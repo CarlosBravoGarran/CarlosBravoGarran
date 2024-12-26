@@ -18,7 +18,7 @@
 
 ## Stats 📊
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosBravoGarran&theme=cobalt)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=cobalt)
+<!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=cobalt) -->
 
 
 ## Summary 💻
@@ -36,10 +36,3 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" alt="Email">
   </a>
 </div>
-
-
-
-## 🎵 Ahora escuchando
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/bravocarlos03)
-
-
