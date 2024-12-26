@@ -15,15 +15,16 @@
 ## Skills 🚀
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,vim,vscode,linux&perline=5)](https://skillicons.dev)
 
-
 ## Stats 📊
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosBravoGarran&theme=cobalt)
 <!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=cobalt) -->
-
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosBravoGarran&theme=cobalt"
+</p>
 
 ## Summary 💻
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosBravoGarran&theme=cobalt)
-
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosBravoGarran&theme=cobalt"
+</p>
 ---
 
 ## 📫 How to reach me
