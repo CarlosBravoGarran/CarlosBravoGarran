@@ -31,6 +31,7 @@
 </div>
 
 ## Featured Projects 🛠️  
+I invite you to check out the projects I have worked on and collaborate if you want to. <br> Here you have some of them:
 
 <div align="center">
 
