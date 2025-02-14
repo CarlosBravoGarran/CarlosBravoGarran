@@ -1,9 +1,26 @@
 # Hi, my name is Carlos Bravo 👋
 - 🎓 I am currently studying a Dual Bachelor's degree in Computer Science and Engineering, and Business Administration, at Universidad Carlos III de Madrid
-- 🌱 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business.
-- 💻 I am passionate about combining programming with business strategy and innovation to address real-world challenges. My primary interests include Artificial Intelligence, Cybersecurity, Data Analytics, and Software Development, among other areas.
 
-## Skills 🚀
+
+- 🌱 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business.
+
+
+- 💻 I am passionate about combining programming with business strategy and innovation to address real-world challenges.
+
+  
+- My primary interests include:
+
+  - Artificial Intelligence 🤖
+  
+  - Cybersecurity 🔒
+  
+  - Data Analytics 📊
+  
+  - Software Development 💻
+
+
+
+## Languages and Skills 🚀
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,vim,vscode,linux&perline=5)](https://skillicons.dev)
 
 ## Stats 📊
@@ -13,11 +30,17 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=radical" alt="General stats">
 </div>
 
-***
+## Featured Projects 🛠️
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosBravoGarran&theme=radical&row=1&column=3" alt="CarlosBravoGarran trophies">
-</div>
+I invite you to check out the projects I have worked on and collaborate if you want to:
+##### 📌 [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop)  
+##### 📌 [Criptography](https://github.com/CarlosBravoGarran/crypto-notes)
+##### 📌 [Desktop Apps](https://github.com/CarlosBravoGarran/PDF-Manager) 
+##### 📌 [Operating Systems](https://github.com/CarlosBravoGarran/Multithread-Store)  
+##### 📌 [Heuristic Search](https://github.com/CarlosBravoGarran/Airport-Manager)  
+
+
+
 
 ## 📫 How to reach me
 
