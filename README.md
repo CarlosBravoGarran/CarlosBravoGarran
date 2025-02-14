@@ -30,15 +30,19 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=radical" alt="General stats">
 </div>
 
-## Featured Projects 🛠️
+## Featured Projects 🛠️  
 
-I invite you to check out the projects I have worked on and collaborate if you want to:
-##### 📌 [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop)  
-##### 📌 [Criptography](https://github.com/CarlosBravoGarran/crypto-notes)
-##### 📌 [Desktop Apps](https://github.com/CarlosBravoGarran/PDF-Manager) 
-##### 📌 [Operating Systems](https://github.com/CarlosBravoGarran/Multithread-Store)  
-##### 📌 [Heuristic Search](https://github.com/CarlosBravoGarran/Airport-Manager)  
+<div align="center">
 
+| 📌 Area | Proyect |
+|-----------|------------|
+| [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop) | Santa's Workshop Web App |
+| [Cryptography](https://github.com/CarlosBravoGarran/crypto-notes) | Cryptographic notes & implementations |
+| [Desktop Applications](https://github.com/CarlosBravoGarran/PDF-Manager) | PDF file manager app |
+| [Operating Systems](https://github.com/CarlosBravoGarran/Multithread-Store) | Multithreading & concurrency project |
+| [Heuristic Search](https://github.com/CarlosBravoGarran/Airport-Manager) | AI-based airport management tool |
+
+</div>
 
 
 
