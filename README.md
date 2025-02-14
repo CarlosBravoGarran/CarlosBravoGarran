@@ -36,9 +36,9 @@
 
 | 📌 Area | Proyect |
 |-----------|------------|
-| [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop) | Santa's Workshop Web App |
-| [Cryptography](https://github.com/CarlosBravoGarran/crypto-notes) | Cryptographic notes & implementations |
-| [Desktop Applications](https://github.com/CarlosBravoGarran/PDF-Manager) | PDF file manager app |
+| [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop) | Santa's Workshop Web |
+| [Cryptography](https://github.com/CarlosBravoGarran/crypto-notes) | Cryptographic console-based App |
+| [Desktop Applications](https://github.com/CarlosBravoGarran/PDF-Manager) | PDF file manager graphical App |
 | [Operating Systems](https://github.com/CarlosBravoGarran/Multithread-Store) | Multithreading & concurrency project |
 | [Heuristic Search](https://github.com/CarlosBravoGarran/Airport-Manager) | AI-based airport management tool |
 
