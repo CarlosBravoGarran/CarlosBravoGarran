@@ -8,13 +8,9 @@
 - My primary interests include:
 
   - Artificial Intelligence 🤖
- 
   - Neural Networks 🧬
-  
   - Data Analytics 📊
-  
   - Software Development 💻
- 
   - Cybersecurity 🔒
 
 ## Languages and Skills 🚀
