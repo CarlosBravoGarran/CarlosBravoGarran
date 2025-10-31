@@ -1,27 +1,24 @@
 # Hi, my name is Carlos Bravo 👋
-- 🎓 I am currently studying a Dual Bachelor's degree in Computer Science and Engineering, and Business Administration, at Universidad Carlos III de Madrid
+- 🎓 I am currently pursuing a Dual Bachelor's degree in Computer Science and Engineering, and Business Administration at Universidad Carlos III de Madrid (UC3M).
 
+- 💼 I am also working as an Artificial Intelligence Researcher at the MasOrange–UC3M Chair, focused on developing intelligent TV schedule assistants by applying language models, machine learning, and data analysis techniques to create innovative solutions for the audiovisual and digital domain.
 
-- 🌱 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business.
-
-
-- 💻 I am passionate about combining programming with business strategy and innovation to address real-world challenges.
-
+- 💻 Currently, I'm enhancing my skills in both fields to bridge the gap between technology and business. I am passionate about combining programming with business strategy and innovation to address real-world challenges. 
   
 - My primary interests include:
 
   - Artificial Intelligence 🤖
-  
-  - Cybersecurity 🔒
+ 
+  - Neural Networks 🧬
   
   - Data Analytics 📊
   
   - Software Development 💻
-
-
+ 
+  - Cybersecurity 🔒
 
 ## Languages and Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,mysql,git,vim,vscode,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,mysql,git,vim,vscode,linux&perline=5)](https://skillicons.dev)
 
 ## Stats 📊
 
@@ -30,27 +27,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosBravoGarran&theme=radical" alt="General stats">
 </div>
 
-## Featured Projects 🛠️  
-I invite you to check out the projects I have worked on and collaborate if you want to. <br> Here you have some of them:
-
-<div align="center">
-
-| 📌 Area | Proyect |
-|-----------|------------|
-| [Web Development](https://github.com/CarlosBravoGarran/Santas-Workshop) | Santa's Workshop Web |
-| [Cryptography](https://github.com/CarlosBravoGarran/crypto-notes) | Cryptographic console-based App |
-| [Desktop Applications](https://github.com/CarlosBravoGarran/PDF-Manager) | PDF file manager graphical App |
-| [Operating Systems](https://github.com/CarlosBravoGarran/Multithread-Store) | Multithreading & concurrency project |
-| [Heuristic Search](https://github.com/CarlosBravoGarran/Airport-Manager) | AI-based airport management tool |
-
-</div>
-
-
-
 ## 📫 How to reach me
 
 <div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/carlosbravogarr%C3%A1n/">
+  <a href="https://www.linkedin.com/in/carlosbravogarran/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn">
   </a>
   <a href="mailto:carlosbravogarran@gmail.com">
