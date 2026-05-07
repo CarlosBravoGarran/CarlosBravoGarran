@@ -14,7 +14,7 @@
   - Cybersecurity 🔒
 
 ## Languages and Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,mysql,git,vim,vscode,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,mysql,git,bash,vscode,linux&perline=5)](https://skillicons.dev)
 
 ## Stats 📊
 
