@@ -1,10 +1,10 @@
 # Hi, I'm Carlos Bravo 👋
 
-Computer Engineer and Business Administration graduate from UC3M, passionate about artificial intelligence and bridging technology and business.
+AI Engineer at **Orange España**, passionate about artificial intelligence and bridging technology and business.
 
-- Currently working at **Orange España** as **Associate Software Engineer** (Data & AI Enablers), designing and developing **voicebots** for Customer Operations
-- Graduate in Computer Science and Engineering and Business Administration - Universidad Carlos III de Madrid
-- Previously Applied AI Researcher at the MasOrange-UC3M Chair (intelligent TV schedule assistants)
+- Currently working at **Orange España** as **Software Engineer** in the Data & AI Enablers Department, designing and developing **voicebots** for Customer Operations.
+- Graduate in **Computer Engineering and Business Administration** - Universidad Carlos III de Madrid.
+- Previously Applied AI Researcher at the MasOrange-UC3M Chair developing intelligent TV schedule assistants.
 - Interested in AI, Machine Learning, data analysis and software development.
 
 ---
